@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sravya/static/css/main.bcf46ba3.chunk.css",
+    "main.js": "/sravya/static/js/main.e3d0d56a.chunk.js",
+    "main.js.map": "/sravya/static/js/main.e3d0d56a.chunk.js.map",
+    "runtime-main.js": "/sravya/static/js/runtime-main.8ca1472e.js",
+    "runtime-main.js.map": "/sravya/static/js/runtime-main.8ca1472e.js.map",
+    "static/js/2.c71ead84.chunk.js": "/sravya/static/js/2.c71ead84.chunk.js",
+    "static/js/2.c71ead84.chunk.js.map": "/sravya/static/js/2.c71ead84.chunk.js.map",
+    "index.html": "/sravya/index.html",
+    "precache-manifest.9d54b910f03d537886f6fc0098a9bb89.js": "/sravya/precache-manifest.9d54b910f03d537886f6fc0098a9bb89.js",
+    "service-worker.js": "/sravya/service-worker.js",
+    "static/css/main.bcf46ba3.chunk.css.map": "/sravya/static/css/main.bcf46ba3.chunk.css.map",
+    "static/js/2.c71ead84.chunk.js.LICENSE.txt": "/sravya/static/js/2.c71ead84.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/sravya/static/media/profile.93a874e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ca1472e.js",
+    "static/js/2.c71ead84.chunk.js",
+    "static/css/main.bcf46ba3.chunk.css",
+    "static/js/main.e3d0d56a.chunk.js"
+  ]
+}
